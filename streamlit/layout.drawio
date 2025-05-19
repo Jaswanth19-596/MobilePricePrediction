@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="Dt5tg8RyxFRkwOo1Uq9f" name="Page-1">
+        <mxGraphModel dx="485" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="340" width="460" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Mobile Price Prediction" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="360" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Enter Feature 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="400" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Enter Feature 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="430" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Enter Feature 3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="382" y="460" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Enter Feature 4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="490" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Enter Feature 5" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="520" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Submit" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="570" width="160" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
