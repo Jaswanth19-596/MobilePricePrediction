@@ -1,8 +1,10 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import os
 
-pipeline = joblib.load('./../models/price_prediction_pipeline.pkl')
+model_path = os.path.join(os.path.dirname(__file__), 'price_prediction_pipeline.pkl')
+pipeline = joblib.load(model_path)
 X_train = pd.read_csv('./../data/processed/X_train.csv')
 
 st.title("Mobile Price Prediction")
