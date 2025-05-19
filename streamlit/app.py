@@ -5,7 +5,10 @@ import os
 
 model_path = os.path.join(os.path.dirname(__file__), 'price_prediction_pipeline.pkl')
 pipeline = joblib.load(model_path)
-X_train = pd.read_csv('./../data/processed/X_train.csv')
+
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+csv_path = os.path.join(BASE_DIR, 'data', 'processed', 'X_train.csv')
+X_train = pd.read_csv(csv_path)
 
 st.title("Mobile Price Prediction")
 
